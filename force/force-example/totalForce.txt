@@ -1,0 +1,17 @@
+nuc.pqr_out.residue
+sep_10_binding_protein.pqr_out.residue
+sep_12_binding_protein.pqr_out.residue
+sep_14_binding_protein.pqr_out.residue
+sep_16_binding_protein.pqr_out.residue
+sep_18_binding_protein.pqr_out.residue
+sep_20_binding_protein.pqr_out.residue
+sep_22_binding_protein.pqr_out.residue
+sep_24_binding_protein.pqr_out.residue
+sep_26_binding_protein.pqr_out.residue
+sep_28_binding_protein.pqr_out.residue
+sep_30_binding_protein.pqr_out.residue
+sep_32_binding_protein.pqr_out.residue
+sep_34_binding_protein.pqr_out.residue
+sep_36_binding_protein.pqr_out.residue
+sep_38_binding_protein.pqr_out.residue
+sep_40_binding_protein.pqr_out.residue

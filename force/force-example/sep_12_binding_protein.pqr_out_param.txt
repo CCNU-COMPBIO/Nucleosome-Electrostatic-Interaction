@@ -1,0 +1,14 @@
+-e perfil=70.0
+scale=2.0
+in(modpdb4,file=temp_sep_12_binding_protein.pqr_out_complex,format=pqr)
+indi=2.0
+exdi=80.0
+prbrad=1.4
+salt=0.15
+bndcon=2
+maxc=0.01
+linit=800
+in(frc,file=temp_sep_12_binding_protein.pqr_out_frc)
+out(frc,file=frc.out)
+site(a,p,f)
+energy(s,c)
