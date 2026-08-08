@@ -12,4 +12,4 @@ You can browse the following folders:
 
 4.[force](./force): Result files for electrostatic force calculations.
 
-6.[MD](./MD): Scripts and results for molecular dynamics simulations.
+5.[MD](./MD): Scripts and results for molecular dynamics simulations.
