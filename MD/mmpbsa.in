@@ -1,0 +1,43 @@
+
+
+&general
+startframe=21,
+endframe=200,
+interval=1,
+/
+
+&pb
+# Ionic strength, M
+istrng=0.150,
+
+# Nonpolar solvation model: cavity + dispersion
+inp=2,
+
+# Solute and solvent dielectric constants
+indi=2.0,
+exdi=80.0,
+
+# PB finite-difference grid
+fillratio=4.0,
+scale=2.0,
+
+# Solvent probe radius
+prbrad=1.4,
+
+# Read atomic radii from prmtop
+radiopt=0,
+
+# Nonpolar solvation parameters
+cavity_surften=0.0378,
+cavity_offset=-0.5692,
+/
+
+&decomp
+# Per-residue decomposition; 1-4 EEL/VDW folded into EEL/VDW
+idecomp=2,
+
+# Complex, receptor, ligand, and DELTA; total/sidechain/backbone
+# contributions are printed.
+dec_verbose=3,
+
+/
